@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6d5848-86f4-4bfa-a7c0-6517d4578c4c" name="Default Changelist" comment="" />
+    <list default="true" id="3d6d5848-86f4-4bfa-a7c0-6517d4578c4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/杨辉三角.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/验证回文串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letcode/简单/路径总和.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/简单/路径总和.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +48,51 @@
     <favorites_list name="idea" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/letcode/简单/路径总和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="88">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/letcode/简单/验证回文串.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/letcode/简单/杨辉三角.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="32" selection-start-line="32" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -91,13 +137,12 @@
       <dir>D:\javaCode\idea\src\arc</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/test/子类.java" />
-        <option value="$PROJECT_DIR$/src/源代码/String源代码.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/整数反转.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/回文数.java" />
         <option value="$PROJECT_DIR$/letcode/简单/最长的公共前缀.java" />
         <option value="$PROJECT_DIR$/letcode/简单/有效的括号.java" />
         <option value="$PROJECT_DIR$/letcode/基础例子/简单递归.java" />
@@ -145,6 +190,10 @@
         <option value="$PROJECT_DIR$/letcode/简单/将有序数组转换为二叉树.java" />
         <option value="$PROJECT_DIR$/letcode/简单/平衡二叉树.java" />
         <option value="$PROJECT_DIR$/letcode/简单/路径总和.java" />
+        <option value="$PROJECT_DIR$/letcode/简单/杨辉三角.java" />
+        <option value="$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机.java" />
+        <option value="$PROJECT_DIR$/letcode/简单/验证回文串.java" />
+        <option value="$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机II.java" />
       </list>
     </option>
   </component>
@@ -164,17 +213,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="494" />
-    <option name="y" value="200" />
-    <option name="width" value="1184" />
+    <option name="x" value="844" />
+    <option name="y" value="92" />
+    <option name="width" value="1011" />
     <option name="height" value="894" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,12 +249,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/javaCode/idea/src/lambda/使用Lambda表达式和函数接口.java" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555062372296" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/letcode/简单" />
@@ -245,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.将有序数组转换为二叉树">
+  <component name="RunManager" selected="Application.买卖股票的最佳时机II">
     <configuration name="将有序数组转换为二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.将有序数组转换为二叉树" />
       <module name="idea" />
@@ -259,12 +312,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Linkedlist测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础例子.Linkedlist测试" />
+    <configuration name="验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.验证回文串" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="基础例子.*" />
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="买卖股票的最佳时机II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.买卖股票的最佳时机II" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,84 +348,6 @@
     <configuration name="SqList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SqList" />
       <module name="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二进制求和" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.回文数" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二叉树的最大深度" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二维数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.二维数组" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组移除元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.数组移除元素" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -483,6 +471,19 @@
     </configuration>
     <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.杨辉三角" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -624,6 +625,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.买卖股票的最佳时机" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="线性表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="线性表" />
       <module name="idea" />
@@ -683,6 +697,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.二进制求和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.回文数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.二叉树的最大深度" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.二维数组" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组移除元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.数组移除元素" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AuthenticationTest.testAuthentication" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="idea" />
       <extension name="coverage">
@@ -700,18 +792,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Linkedlist测试" />
       <item itemvalue="Application.Node" />
       <item itemvalue="Application.SqList" />
       <item itemvalue="Application.将有序数组转换为二叉树" />
       <item itemvalue="JUnit.AuthenticationTest.testAuthentication" />
+      <item itemvalue="Application.验证回文串" />
+      <item itemvalue="Application.买卖股票的最佳时机II" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.买卖股票的最佳时机II" />
+        <item itemvalue="Application.验证回文串" />
         <item itemvalue="Application.将有序数组转换为二叉树" />
         <item itemvalue="Application.Node" />
         <item itemvalue="Application.SqList" />
-        <item itemvalue="Application.Linkedlist测试" />
       </list>
     </recent_temporary>
   </component>
@@ -773,10 +867,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="494" y="200" width="1184" height="894" extended-state="0" />
+    <frame x="844" y="92" width="1011" height="894" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.29752067" visible="true" weight="0.22508897" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.29752067" visible="true" weight="0.22607781" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -785,19 +879,19 @@
       <window_info id="Favorites" order="6" sideWeight="0.70098037" side_tool="true" weight="0.34704113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.41802067" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08935611" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4974925" weight="0.40735874" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34736842" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4974925" visible="true" weight="0.26578948" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991554" weight="0.3192848" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984955" weight="0.31673053" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5025075" side_tool="true" weight="0.5637255" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.42969775" />
       <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.32986626" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.48814228" weight="0.24625267" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24874625" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24815983" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -906,43 +1000,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/letcode/简单/两数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/二进制求和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/基础例子/斐波那契.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="method#fib#0;class#斐波那契#0" />
-            <element signature="method#fib1#0;class#斐波那契#0" />
-            <element signature="method#f#0;class#斐波那契#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/回文数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/letcode/简单/实现strStr函数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
@@ -1227,10 +1284,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/简单/杨辉三角.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="32" selection-start-line="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/letcode/简单/路径总和.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="88">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/简单/验证回文串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
         </state>
       </provider>
     </entry>

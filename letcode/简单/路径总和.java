@@ -23,9 +23,32 @@ public class 路径总和 {
 
     }
 
+    /**
+     * 这道题的题意包括了中间的的路径总和。所以不是一个递归可以搞定的，需要两个递归。
+     * 外层递归，提供了每次都是root，里层递归来看从这个root开始有多少个加起来和是等于的。
+     * @param root
+     * @param sum
+     * @return
+     */
     public static boolean hasPathSum(TreeNode root, int sum) {
-
-
+        if (root == null) {
+            return false;
+        }
+        if (root.left  ==null && root.right == null) {
+            if (root.val == sum) {
+                return true;
+            }
+            return false;
+        }
+        boolean result = true;
+        result = hasPathSum(root.left, sum-root.val);
+        if (result == true) {
+            return result;
+        }
+        result = hasPathSum(root.right, sum-root.val);
+        if (result == true ) {
+            return result;
+        }
         return false;
     }
 }
