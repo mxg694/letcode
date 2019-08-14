@@ -8,7 +8,7 @@ package 简单;
  *
  * 示例 1:
  *
- * 输入: "A man, a plan, a canal: Panama"
+ * 输入: "寻找两个有序数组的中位数 man, a plan, a canal: Panama"
  * 输出: true
  *
  * 示例 2:
@@ -20,7 +20,7 @@ package 简单;
 public class 验证回文串 {
 
     public static void main(String[] args) {
-        String s = "A man, a plan, a canal: Panama";
+        String s = "寻找两个有序数组的中位数 man, a plan, a canal: Panama";
         System.out.println("是否是回文串："+ isPalindrome(s));
     }
 

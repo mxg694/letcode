@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6d5848-86f4-4bfa-a7c0-6517d4578c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letcode/基础例子/char类型.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/简单/Excel表列名称.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/简单/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/简单/只出现一次的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/简单/环形链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/网址.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/数组/三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/数组/四数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/数组/寻找两个有序数组的中位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/数组/最接近的三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/数组/求众数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/数组/盛最多水的容器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/阶乘后的零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法导论_第四版/第一章/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法导论_第四版/第一章/最大公约数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letcode/简单/Excel表列名称.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/简单/Excel表列名称.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/letcode/简单/验证回文串.java" beforeDir="false" afterPath="$PROJECT_DIR$/letcode/简单/验证回文串.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,41 +57,88 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/letcode/简单/MinStack.java">
+        <entry file="file://$PROJECT_DIR$/letcode/简单/阶乘后的零.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="550">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/letcode/简单/两数之和.java">
+        <entry file="file://$PROJECT_DIR$/letcode/数组/盛最多水的容器.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="286">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/letcode/简单/Excel表列名称.java">
+        <entry file="file://$PROJECT_DIR$/letcode/数组/求众数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+            <state relative-caret-position="836">
+              <caret line="38" column="33" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/letcode/数组/三数之和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="9" selection-start-line="28" selection-start-column="6" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/letcode/基础例子/char类型.java">
+        <entry file="file://$PROJECT_DIR$/letcode/数组/四数之和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="440">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/letcode/数组/最接近的三数之和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法导论_第四版/第一章/最大公约数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/算法导论_第四版/第一章/BinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/letcode/数组/寻找两个有序数组的中位数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1518">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -122,6 +175,7 @@
       <find>serviceNumber</find>
       <find>main</find>
       <find>remove</find>
+      <find>num</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -141,15 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/letcode/简单/搜索插入位置.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/报数.java" />
-        <option value="$PROJECT_DIR$/letcode/基础例子/常用算法.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/最后一个单词的长度.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/二进制求和.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/x的平方根.java" />
-        <option value="$PROJECT_DIR$/letcode/基础例子/贪婪算法.java" />
-        <option value="$PROJECT_DIR$/src/lambda/LambdaDemo.java" />
-        <option value="$PROJECT_DIR$/test/基本知识/算法的时间复杂度.java" />
         <option value="$PROJECT_DIR$/letcode/基础例子/斐波那契.java" />
         <option value="$PROJECT_DIR$/letcode/简单/爬楼梯.java" />
         <option value="$PROJECT_DIR$/letcode/基础例子/基础知识.md" />
@@ -192,6 +237,15 @@
         <option value="$PROJECT_DIR$/letcode/简单/MinStack.java" />
         <option value="$PROJECT_DIR$/letcode/简单/Excel表列名称.java" />
         <option value="$PROJECT_DIR$/letcode/基础例子/char类型.java" />
+        <option value="$PROJECT_DIR$/letcode/数组/寻找两个有序数组的中位数.java" />
+        <option value="$PROJECT_DIR$/letcode/简单/阶乘后的零.java" />
+        <option value="$PROJECT_DIR$/letcode/数组/盛最多水的容器.java" />
+        <option value="$PROJECT_DIR$/算法导论_第四版/第一章/最大公约数.java" />
+        <option value="$PROJECT_DIR$/算法导论_第四版/第一章/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/letcode/数组/求众数.java" />
+        <option value="$PROJECT_DIR$/letcode/数组/三数之和.java" />
+        <option value="$PROJECT_DIR$/letcode/数组/最接近的三数之和.java" />
+        <option value="$PROJECT_DIR$/letcode/数组/四数之和.java" />
       </list>
     </option>
   </component>
@@ -211,10 +265,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="634" />
-    <option name="y" value="33" />
+    <option name="x" value="603" />
+    <option name="y" value="76" />
     <option name="width" value="1103" />
-    <option name="height" value="976" />
+    <option name="height" value="992" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -224,7 +278,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -241,13 +295,13 @@
               <item name="idea" type="b2602c69:ProjectViewProjectNode" />
               <item name="idea" type="462c0819:PsiDirectoryNode" />
               <item name="letcode" type="462c0819:PsiDirectoryNode" />
-              <item name="基础例子" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,9 +351,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.char类型">
-    <configuration name="将有序数组转换为二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.将有序数组转换为二叉树" />
+  <component name="RunManager" selected="Application.阶乘后的零">
+    <configuration name="阶乘后的零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.阶乘后的零" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -311,61 +365,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Excel表列名称" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.Excel表列名称" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第一章.BinarySearch" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="简单.*" />
+          <option name="PATTERN" value="第一章.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="买卖股票的最佳时机II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.买卖股票的最佳时机II" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.MinStack" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.买卖股票的最佳时机" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="线性表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="线性表" />
-      <module name="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -402,6 +410,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="盛最多水的容器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.盛最多水的容器" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.求众数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,32 +482,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二进制求和" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.回文数" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
       <module name="idea" />
@@ -500,12 +508,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.求众数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="二维数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.二维数组" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大子序和" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.最大子序和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -552,6 +586,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.三数之和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.有效的括号" />
       <module name="idea" />
@@ -578,12 +625,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.买卖股票的最佳时机" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="简单递归" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="基础例子.简单递归" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="基础例子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="四数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.四数之和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -606,32 +679,6 @@
     </configuration>
     <configuration name="删除排序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.删除排序数组中的重复项" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="深度优先搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="啊哈算法.深度优先搜索" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="啊哈算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大子序和" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.最大子序和" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -669,12 +716,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.二进制求和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.杨辉三角" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最接近的三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.最接近的三数之和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -708,12 +781,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="线性表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线性表" />
+      <module name="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.整数反转" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="斐波那契" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="基础例子.斐波那契" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="基础例子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.寻找两个有序数组的中位数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -736,19 +842,6 @@
     </configuration>
     <configuration name="验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.验证回文串" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.整数反转" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -786,6 +879,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.回文数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最后一个单词的长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.最后一个单词的长度" />
       <module name="idea" />
@@ -799,12 +905,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="char类型" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础例子.char类型" />
+    <configuration name="深度优先搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="啊哈算法.深度优先搜索" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="基础例子.*" />
+          <option name="PATTERN" value="啊哈算法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -829,20 +935,14 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.将有序数组转换为二叉树" />
-      <item itemvalue="Application.买卖股票的最佳时机II" />
-      <item itemvalue="Application.MinStack" />
+      <item itemvalue="Application.阶乘后的零" />
+      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="JUnit.AuthenticationTest.testAuthentication" />
-      <item itemvalue="Application.Excel表列名称" />
-      <item itemvalue="Application.char类型" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.char类型" />
-        <item itemvalue="Application.Excel表列名称" />
-        <item itemvalue="Application.MinStack" />
-        <item itemvalue="Application.买卖股票的最佳时机II" />
-        <item itemvalue="Application.将有序数组转换为二叉树" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.阶乘后的零" />
       </list>
     </recent_temporary>
   </component>
@@ -912,10 +1012,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="634" y="33" width="1103" height="976" extended-state="0" />
-    <editor active="true" />
+    <frame x="603" y="76" width="1103" height="992" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.29752067" visible="true" weight="0.27325025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.29752067" visible="true" weight="0.253116" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -923,16 +1022,16 @@
       <window_info id="Structure" order="5" sideWeight="0.70247936" side_tool="true" weight="0.22300707" />
       <window_info id="Favorites" order="6" sideWeight="0.70098037" side_tool="true" weight="0.34704113" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.41802067" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.17814727" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4974925" weight="0.26365796" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.39311165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21328671" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4974925" weight="0.26340327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991554" weight="0.31842107" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984955" weight="0.31578946" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5025075" side_tool="true" weight="0.5637255" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.27114967" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.4283837" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.42773893" />
       <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.32986626" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4848" weight="0.24605678" />
@@ -1010,6 +1109,12 @@
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/letcode/数组/求众数.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1049,63 +1154,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/letcode/简单/搜索插入位置.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/加一.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/删除排序链表中的重复元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="10" selection-start-line="18" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/爬楼梯.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/删除排序数组中的重复项.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/数据结构与算法/选择排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/idea.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/数据结构与算法/快速排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java编程思想/第一章对象导论/前置知识.java" />
-    <entry file="file://$PROJECT_DIR$/src/java编程思想/第二章一切皆对象/基础知识.java" />
     <entry file="file://$PROJECT_DIR$/src/java编程思想/基础知识.java" />
     <entry file="file://$PROJECT_DIR$/test/src/心路.java" />
     <entry file="file://$PROJECT_DIR$/test/难理解/递归.java" />
@@ -1338,7 +1386,7 @@
     <entry file="file://$PROJECT_DIR$/letcode/简单/最小栈.java" />
     <entry file="file://$PROJECT_DIR$/letcode/简单/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="1122">
           <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
         </state>
       </provider>
@@ -1352,18 +1400,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/letcode/简单/Excel表列名称.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="858">
           <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/letcode/基础例子/char类型.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="850" column="12" selection-start-line="850" selection-start-column="12" selection-end-line="850" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/简单/阶乘后的零.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/数组/盛最多水的容器.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/数组/求众数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/数组/三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="9" selection-start-line="28" selection-start-column="6" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/数组/最接近的三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法导论_第四版/第一章/最大公约数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法导论_第四版/第一章/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/数组/寻找两个有序数组的中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/letcode/数组/四数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
