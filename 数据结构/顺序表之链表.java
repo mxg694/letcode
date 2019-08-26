@@ -1,5 +1,13 @@
 public class 顺序表之链表 {
 
+    public static void main(String[] args) {
+        顺序表之链表 l = new 顺序表之链表();
+        l.add(0,0);
+        l.add(1,1);
+        l.add(2,2);
+        l.add(3,3);
+    }
+
 
     public Node head;
 
@@ -94,8 +102,7 @@ public class 顺序表之链表 {
         }
         return  true;
     }
-
-    /**
+     /**
      * 根据索引删除节点
      * @param index
      * @return
