@@ -1,24 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d6d5848-86f4-4bfa-a7c0-6517d4578c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/letcode/数组/下一个排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/中等/旋转图像_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/中等/螺旋矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/困难/接雨水.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/困难/缺失的第一个正数_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/困难/跳跃游戏ii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/搜索旋转排序数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/移除元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/简单/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letcode/数组/组合总和_递归_五.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法导论_第四版/第二章_排序/插入排序.java" afterDir="false" />
+    <list default="true" id="3d6d5848-86f4-4bfa-a7c0-6517d4578c4c" name="Default Changelist" comment="简单的letcode 数组">
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第七章_方法/慎用重载_41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第三章_对所有对象通用的方法对所有对象通用的方法/谨慎的覆盖clone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第二章/消除过期的对象引用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第二章/用私有构造器或枚举类型强化Singleton属性.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第二章/考虑使用静态工厂方法代替构造器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第二章/通过私有构造器强化不可实例化的能力.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第二章/避免创建不必要的对象.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第五章_泛型/优先考虑泛型_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第五章_泛型/优先考虑泛型方法_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第五章_泛型/优先考虑类型安全的异构容器_29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第五章_泛型/利用有限制性通配符提升api的灵活性_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第四章_类和接口/第17条.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EffectiveJava/第四章_类和接口/类层次优先于标签类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/动态规划/最长回文子串__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/字符串/中等/无重复字符最长子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/Nim游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/_3的幂.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/_4的幂.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/丑数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/丑数II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/两个数组的交集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/两整数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/判断子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/单词规律.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/反转字符串中的元音字母.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/同构字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/字符串中的第一个唯一字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/存在重复元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/存在重复元素II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/快乐数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/打家劫舍.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/找不同.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/有效的完全平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/移动零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/缺失数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/计质数器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letcode/简单/赎金信.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test/测试排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/idea/顺序表之链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/idea/顺序表之链表.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数据结构/顺序表之链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/数据结构/顺序表之链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea/META-INF/idea.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/idea/META-INF/idea.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/idea/META-INF/idea.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法导论_第四版/第一章/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法导论_第四版/第一章/最大公约数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/算法导论_第四版/第二章_排序/插入排序.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,93 +88,12 @@
   <component name="FavoritesManager">
     <favorites_list name="idea" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/letcode/数组/中等/螺旋矩阵.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/线性表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/顺序表_单链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构/顺序表之链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/letcode/简单/合并两个有序链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>out</find>
-      <find>com</find>
-      <find>current</find>
-      <find>pair</find>
-      <find>getState</find>
-      <find>registerNatives</find>
-      <find>c</find>
-      <find>add</find>
-      <find>notFull</find>
-      <find>Itr</find>
-      <find>notEmpty</find>
-      <find>wait</find>
-      <find>handleRead</find>
-      <find>handler</find>
-      <find>SelectionKey</find>
-      <find>key</find>
-      <find>toBytes</find>
-      <find>count</find>
-      <find>serviceNumber</find>
-      <find>main</find>
-      <find>remove</find>
-      <find>num</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
-    <dirStrings>
-      <dir>D:\javaCode\idea\src\arc</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -151,63 +102,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/letcode/基础例子/链表测试.java" />
-        <option value="$PROJECT_DIR$/letcode/基础例子/ListNode.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/合并两个有序链表.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/链表测试.java" />
-        <option value="$PROJECT_DIR$/src/数据结构与算法/链表/SingleNode.java" />
-        <option value="$PROJECT_DIR$/数据结构/SqList.java" />
-        <option value="$PROJECT_DIR$/数据结构/线性表.java" />
-        <option value="$PROJECT_DIR$/数据结构/顺序表_单链表.java" />
-        <option value="$PROJECT_DIR$/数据结构/Node.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/将有序数组转换为二叉树.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/平衡二叉树.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/路径总和.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/杨辉三角.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/验证回文串.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机II.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/环形链表.java" />
-        <option value="$PROJECT_DIR$/letcode/网址.md" />
-        <option value="$PROJECT_DIR$/letcode/简单/只出现一次的数字.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/最小栈.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/MinStack.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/Excel表列名称.java" />
-        <option value="$PROJECT_DIR$/letcode/基础例子/char类型.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/寻找两个有序数组的中位数.java" />
-        <option value="$PROJECT_DIR$/letcode/简单/阶乘后的零.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/盛最多水的容器.java" />
-        <option value="$PROJECT_DIR$/算法导论_第四版/第一章/最大公约数.java" />
-        <option value="$PROJECT_DIR$/算法导论_第四版/第一章/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/求众数.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/三数之和.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/最接近的三数之和.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/四数之和.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/移除元素.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/下一个排序.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/搜索旋转排序数组.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/在排序数组中查找元素的第一个和最后一个位置.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/组合总和.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/组合总和_递归_五.java" />
-        <option value="$PROJECT_DIR$/算法导论_第三版/第二章_排序/排序.java" />
-        <option value="$PROJECT_DIR$/算法导论_第三版/第二章_排序/插入排序.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/中等/缺失的第一个正数.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/中等/缺失的第一个正数_1.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/困难/缺失的第一个正数_1.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/困难/接雨水.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/困难/跳跃游戏.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/困难/跳跃游戏ii.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/困难/旋转图像.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/中等/旋转图像.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/中等/旋转图像_1.java" />
-        <option value="$PROJECT_DIR$/letcode/数组/中等/螺旋矩阵.java" />
-        <option value="$PROJECT_DIR$/数据结构/顺序表之链表.java" />
-      </list>
-    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -218,56 +112,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="575" />
-    <option name="y" value="72" />
-    <option name="width" value="1103" />
-    <option name="height" value="916" />
-  </component>
+  <component name="ProjectId" id="1QGrCNph41QfJgAu1nhMLpCaHtN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="letcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="letcode" type="462c0819:PsiDirectoryNode" />
-              <item name="简单" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idea" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -284,17 +131,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\javaCode\idea\test" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="动态规划_" />
       <recent name="Netty" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="简单" />
-      <recent name="" />
-      <recent name="排序算法" />
-      <recent name="java.util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javaCode\idea\letcode\简单" />
@@ -302,6 +141,15 @@
       <recent name="D:\javaCode\idea\test\src\银行业务" />
       <recent name="D:\javaCode\idea\src\Netty\client" />
       <recent name="D:\javaCode\idea\src\Netty\序列化\core" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="简单" />
+      <recent name="" />
+      <recent name="排序算法" />
+      <recent name="java.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaCode\idea\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,9 +164,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.合并两个有序链表">
-    <configuration name="二进制求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二进制求和" />
+  <component name="RunManager" selected="Application.慎用重载_41">
+    <configuration name="判断子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.判断子序列" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -330,97 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="顺序表之链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="顺序表之链表" />
-      <module name="idea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
+    <configuration name="CollectionClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第七章_方法.CollectionClassifier" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="斐波那契" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础例子.斐波那契" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础例子.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="简单递归" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="基础例子.简单递归" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="基础例子.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.寻找两个有序数组的中位数" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="栈和队列实现小猫钓鱼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="啊哈算法.栈和队列实现小猫钓鱼" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="啊哈算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.只出现一次的数字" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.整数反转" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
+          <option name="PATTERN" value="第七章_方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,136 +193,6 @@
     </configuration>
     <configuration name="验证回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="简单.验证回文串" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="暴力枚举" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="啊哈算法.暴力枚举" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="啊哈算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.回文数" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.杨辉三角" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="删除排序链表中的重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.删除排序链表中的重复元素" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最后一个单词的长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.最后一个单词的长度" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="四数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.四数之和" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="深度优先搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="啊哈算法.深度优先搜索" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="啊哈算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.加一" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -584,116 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数组移除元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.数组移除元素" />
+    <configuration name="栈和队列实现小猫钓鱼" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="啊哈算法.栈和队列实现小猫钓鱼" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.求众数" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.爬楼梯" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二叉树的最大深度" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="简单.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.求众数" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="在排序数组中查找元素的第一个和最后一个位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.在排序数组中查找元素的第一个和最后一个位置" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二维数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.二维数组" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="啊哈算法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -727,8 +256,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.三数之和" />
+    <configuration name="最后一个单词的长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.最后一个单词的长度" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反转字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.反转字符串" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.整数反转" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="在排序数组中查找元素的第一个和最后一个位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.在排序数组中查找元素的第一个和最后一个位置" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -740,8 +308,164 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.有效的括号" />
+    <configuration name="加一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.加一" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两整数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.两整数之和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="删除排序链表中的重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.删除排序链表中的重复元素" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="斐波那契" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础例子.斐波那契" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础例子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二维数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.二维数组" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="下一个排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.下一个排序" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的遍历层次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.二叉树的遍历层次" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.只出现一次的数字" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="计质数器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.计质数器" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反转字符串中的元音字母" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.反转字符串中的元音字母" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="递归" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="难理解.递归" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="难理解.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="赎金信" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.赎金信" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -766,12 +490,272 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.整数反转" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="四数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.四数之和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.求众数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.求众数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="简单递归" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="基础例子.简单递归" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="基础例子.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="存在重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.存在重复元素" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两个数组的交集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.两个数组的交集" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.寻找两个有序数组的中位数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串中的第一个唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.字符串中的第一个唯一字符" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="打家劫舍" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.打家劫舍" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.有效的括号" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最接近的三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="数组.最接近的三数之和" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="暴力枚举" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="啊哈算法.暴力枚举" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="啊哈算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.杨辉三角" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.三数之和" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.回文数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="丑数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.丑数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="快乐数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.快乐数" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的最大深度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.二叉树的最大深度" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找不同" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.找不同" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -792,8 +776,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="二叉树的遍历层次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二叉树的遍历层次" />
+    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.爬楼梯" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -831,8 +815,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
+    <configuration name="二叉树的遍历层次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.二叉树的遍历层次" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -844,12 +828,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="下一个排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.下一个排序" />
+    <configuration name="同构字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.同构字符串" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数组.*" />
+          <option name="PATTERN" value="简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -857,21 +841,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="递归" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="难理解.递归" />
-      <module name="idea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="难理解.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二叉树的遍历层次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.二叉树的遍历层次" />
+    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -903,8 +874,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="简单.整数反转" />
+    <configuration name="顺序表之链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序表之链表" />
+      <module name="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="移除链表元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.移除链表元素" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
@@ -916,12 +894,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="缺失的第一个正数_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.困难.缺失的第一个正数_1" />
+    <configuration name="单词规律" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.单词规律" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数组.中等.*" />
+          <option name="PATTERN" value="简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -929,12 +907,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="旋转图像_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.中等.旋转图像_1" />
+    <configuration name="最长的公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.最长的公共前缀" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数组.中等.*" />
+          <option name="PATTERN" value="简单.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -942,12 +920,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="跳跃游戏ii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组.困难.跳跃游戏ii" />
+    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
       <module name="idea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数组.中等.*" />
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="深度优先搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="啊哈算法.深度优先搜索" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="啊哈算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.合并两个有序链表" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组移除元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="简单.数组移除元素" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="简单.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="慎用重载_41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第七章_方法.慎用重载_41" />
+      <module name="idea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第七章_方法.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -972,20 +1002,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.二进制求和" />
-      <item itemvalue="Application.缺失的第一个正数_1" />
-      <item itemvalue="Application.跳跃游戏ii" />
+      <item itemvalue="Application.判断子序列" />
       <item itemvalue="JUnit.AuthenticationTest.testAuthentication" />
-      <item itemvalue="Application.顺序表之链表" />
-      <item itemvalue="Application.合并两个有序链表" />
+      <item itemvalue="Application.CollectionClassifier" />
+      <item itemvalue="Application.慎用重载_41" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.合并两个有序链表" />
-        <item itemvalue="Application.顺序表之链表" />
-        <item itemvalue="Application.二进制求和" />
-        <item itemvalue="Application.跳跃游戏ii" />
-        <item itemvalue="Application.缺失的第一个正数_1" />
+        <item itemvalue="Application.慎用重载_41" />
+        <item itemvalue="Application.CollectionClassifier" />
+        <item itemvalue="Application.判断子序列" />
       </list>
     </recent_temporary>
   </component>
@@ -1017,40 +1043,15 @@
       <option name="project" value="LOCAL" />
       <updated>1565742568618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="简单的letcode 数组">
+      <created>1566788610819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566788610821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="理解_测试list遍历删除 - 2019.06.28 at 13h 46m 27s.xml">
-      <configuration name="理解.测试list遍历删除" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_测试list循环 - 2019.06.28 at 13h 46m 44s.xml">
-      <configuration name="lambda.测试list循环" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_测试list循环 - 2019.06.28 at 13h 46m 54s.xml">
-      <configuration name="lambda.测试list循环" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_测试list循环 - 2019.06.28 at 13h 47m 41s.xml">
-      <configuration name="lambda.测试list循环" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="String源代码_out - 2019.06.28 at 13h 49m 19s.xml">
-      <configuration name="String源代码.out" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_测试list循环 - 2019.06.28 at 13h 50m 17s.xml">
-      <configuration name="lambda.测试list循环" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_测试list循环 - 2019.06.28 at 13h 53m 18s.xml">
-      <configuration name="lambda.测试list循环" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_list赋值list - 2019.06.28 at 13h 58m 41s.xml">
-      <configuration name="lambda.list赋值list" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_一个list减去另一个list - 2019.07.03 at 10h 30m 20s.xml">
-      <configuration name="lambda.一个list减去另一个list" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="lambda_list赋值list - 2019.07.03 at 10h 53m 08s.xml">
-      <configuration name="lambda.list赋值list" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1061,72 +1062,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.29752067" visible="true" weight="0.29317698" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.70247936" side_tool="true" weight="0.22300707" />
-      <window_info id="Favorites" order="6" sideWeight="0.70098037" side_tool="true" weight="0.34704113" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.12787724" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24296676" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4974925" visible="true" weight="0.3329718" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991554" weight="0.31842107" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984955" weight="0.31578946" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5025075" side_tool="true" weight="0.5637255" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.27114967" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.42711" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.32986626" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4848" weight="0.24605678" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24815983" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4975728" weight="0.32957393" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5056" side_tool="true" weight="0.3270242" />
-      <window_info anchor="right" id="Maven" order="9" sideWeight="0.4944" weight="0.3270242" />
-      <window_info anchor="right" id="BPMNPalette" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.29752067" visible="true" weight="0.23362069" />
-      <window_info id="Image Layers" order="1" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Structure" order="5" sideWeight="0.70247936" side_tool="true" weight="0.22300707" />
-      <window_info id="Favorites" order="6" sideWeight="0.70098037" side_tool="true" weight="0.34704113" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.41802067" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28680202" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4974925" visible="true" weight="0.29441625" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4991554" weight="0.3192848" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984955" weight="0.31673053" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5025075" side_tool="true" weight="0.5637255" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.33375636" />
-      <window_info anchor="bottom" id="Thumbnails" order="11" visible="true" weight="0.32986626" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49261084" weight="0.24761905" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24874625" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.4975728" weight="0.32957393" />
-      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5073892" side_tool="true" weight="0.24482758" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32998997" />
-      <window_info anchor="right" id="BPMNPalette" order="10" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="简单的letcode" />
@@ -1139,20 +1086,27 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/letcode/简单/删除排序链表中的重复元素.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/letcode/简单/将有序数组转换为二叉树.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/letcode/数组/求众数.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/letcode/简单/打家劫舍.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/letcode/简单/快乐数.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1165,16 +1119,16 @@
     <SUITE FILE_PATH="coverage/idea$TestVolatile1.ic" NAME="TestVolatile1 Coverage Results" MODIFIED="1555660896399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>arc.Atomic_opr.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/idea$.ic" NAME="只出现一次的数字 Coverage Results" MODIFIED="1565071034932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/idea$x.ic" NAME="x的平方根 Coverage Results" MODIFIED="1562747522708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>简单.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/idea$String.ic" NAME="String源码 Coverage Results" MODIFIED="1555568467555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/idea$ReentrantLockCondition.ic" NAME="ReentrantLockCondition Coverage Results" MODIFIED="1555546636172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>arc.lock.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/idea$x.ic" NAME="x的平方根 Coverage Results" MODIFIED="1562747522708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/idea$String.ic" NAME="String源码 Coverage Results" MODIFIED="1555568467555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/idea$.ic" NAME="反转字符串中的元音字母 Coverage Results" MODIFIED="1570496774878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>简单.*</FILTER>
     </SUITE>
   </component>
@@ -1191,355 +1145,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/letcode/简单/链表测试.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数据结构与算法/链表/SingleNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/SqList.java" />
-    <entry file="file://$PROJECT_DIR$/letcode/简单/二叉树的遍历层次.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-88">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="docComment;class#二叉树的遍历层次#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/将有序数组转换为二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/平衡二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-          <folding>
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/杨辉三角.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1430">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/验证回文串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="31" selection-start-line="31" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/x的平方根.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/路径总和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/买卖股票的最佳时机.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" selection-start-line="32" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/环形链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="31" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/网址.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/二叉树的最大深度.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="42" selection-start-line="42" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/只出现一次的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/最小栈.java" />
-    <entry file="file://$PROJECT_DIR$/letcode/简单/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/两数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/Excel表列名称.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/基础例子/char类型.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/java/jdk1.8.0_31/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1403">
-          <caret line="850" column="12" selection-start-line="850" selection-start-column="12" selection-end-line="850" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/阶乘后的零.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/盛最多水的容器.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/求众数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/三数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" column="9" selection-start-line="28" selection-start-column="6" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/四数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/删除排序数组中的重复项.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/下一个排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/最接近的三数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法导论_第三版/第一章/最大公约数.java" />
-    <entry file="file://$PROJECT_DIR$/算法导论_第三版/第一章/BinarySearch.java" />
-    <entry file="file://$PROJECT_DIR$/letcode/数组/寻找两个有序数组的中位数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1518">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/搜索旋转排序数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/在排序数组中查找元素的第一个和最后一个位置.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/搜索插入位置.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-418">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/算法导论_第三版/第二章_排序/插入排序.java" />
-    <entry file="file://$PROJECT_DIR$/letcode/数组/中等/A.java" />
-    <entry file="file://$PROJECT_DIR$/letcode/数组/简单/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/移除元素.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="52" column="36" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/组合总和_递归_五.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/困难/缺失的第一个正数_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/困难/接雨水.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/困难/跳跃游戏ii.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/中等/旋转图像_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/数组/中等/螺旋矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/线性表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="85" column="31" selection-start-line="85" selection-start-column="31" selection-end-line="85" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/顺序表_单链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构/顺序表之链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/letcode/简单/合并两个有序链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
