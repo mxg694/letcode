@@ -1,13 +1,19 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.10.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/typeinfo-pets.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-5.0.0.Alpha2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.10.5.Final-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/druid-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/TinkingInJava.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/druid-1.1.3-sources.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <excluded>
-      <root url="jar://$PROJECT_DIR$/lib/slf4j-api.jar!/" />
-    </excluded>
-    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
   </library>
 </component>
